@@ -10,7 +10,8 @@ Instagram UI Clones using TailwindCSS ⚡
 [![web](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://instagramwebui.netlify.app)
 
 ## Sneak Peek of Site 🙈 :
-![instagram front](https://github.com/Vishnu252005/Instagram-Clone/assets/141705372/b530993e-843d-4303-8612-7c8ba2faff19)
+![instagram front](https://github.com/Vishnu252005/instagram-clone/assets/141705372/538fc3f7-b7a0-421f-a393-f0e5ddbb6a06)
+
 
 
 
